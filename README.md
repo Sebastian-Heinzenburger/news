@@ -16,5 +16,5 @@ $ go build -o news *.go
 ### weltweite Nachriten
 ![weltweite Nachriten](pictures/news.png)
 
-### weltweite Nachriten
+### regionale Nachriten
 ![regionale Nachriten](pictures/regional.png)
